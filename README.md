@@ -2,6 +2,10 @@
 I build small tools and automations, mostly around AI agents and everyday workflows.
 Currently exploring: agent tooling, prompt workflows, and tiny utilities that save time.
 
+## Featured project
+
+**[Power Inside](https://github.com/jacker-nz/omarchy-power-inside)** — a power & battery panel for Omarchy. v1.1.0, listed on the Omarchy plugin marketplace.
+
 ## Support
 
 I build open-source Omarchy / Linux plugins in my spare time. If Power Inside or my other work helps you, you can support me here:
