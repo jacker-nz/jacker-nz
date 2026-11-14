@@ -7,4 +7,3 @@ Currently exploring: agent tooling, prompt workflows, and tiny utilities that sa
 I build open-source Omarchy / Linux plugins in my spare time. If Power Inside or my other work helps you, you can support me here:
 
 - Afdian （爱发电）: https://afdian.com/a/jacker-nz
-- Patreon: https://www.patreon.com/c/jacker_nz
